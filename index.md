@@ -5,4 +5,4 @@
 ##### H5 Header
 ###### H6 Header
 
-![KC Chiefs] (https://www.pixelstalk.net/wp-content/uploads/2016/10/Chiefs-free-hd-wallpapers.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
